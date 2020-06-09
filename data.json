@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "name": "phrozen",
+        "roundsPlayed": "22",
+        "performance": {
+            "kills": "24",
+            "assists": "5",
+            "deaths": "2",
+            "adr": "128",
+            "hs": "54",
+            "entry": {
+                "fk": "8",
+                "fd": "0"
+            }
+        },
+        "multiKills": {
+            "2k": "1",
+            "3k": "2",
+            "4k": "5",
+            "5k": "2"
+        }
+    },
+    {
+        "id": 2,
+        "name": "gNat",
+        "roundsPlayed": "22",
+        "performance": {
+            "kills": "14",
+            "assists": "4",
+            "deaths": "8",
+            "adr": "91",
+            "hs": "54",
+            "entry": {
+                "fk": "5",
+                "fd": "4"
+            }
+        },
+        "multiKills": {
+            "2k": "1",
+            "3k": "2",
+            "4k": "5",
+            "5k": "2"
+        }
+    },
+    {
+        "id": 3,
+        "name": "darkeh",
+        "roundsPlayed": "22",
+        "performance": {
+            "kills": "35",
+            "assists": "12",
+            "deaths": "8",
+            "adr": "425",
+            "hs": "54",
+            "entry": {
+                "fk": "9",
+                "fd": "1"
+            }
+        },
+        "multiKills": {
+            "2k": "1",
+            "3k": "2",
+            "4k": "5",
+            "5k": "2"
+        }
+    },
+    {
+        "id": 4,
+        "name": "nax",
+        "roundsPlayed": "22",
+        "performance": {
+            "kills": "69",
+            "assists": "69",
+            "deaths": "69",
+            "adr": "69",
+            "hs": "54",
+            "entry": {
+                "fk": "7",
+                "fd": "4"
+            }
+        },
+        "multiKills": {
+            "2k": "1",
+            "3k": "2",
+            "4k": "5",
+            "5k": "2"
+        }
+    },
+    {
+        "id": 5,
+        "name": "jakethesnake",
+        "roundsPlayed": "22",
+        "performance": {
+            "kills": "1",
+            "assists": "24",
+            "deaths": "25",
+            "adr": "25",
+            "hs": "54",
+            "entry": {
+                "fk": "0",
+                "fd": "0"
+            }
+        },
+        "multiKills": {
+            "2k": "1",
+            "3k": "2",
+            "4k": "5",
+            "5k": "2"
+        }
+    },
+    {
+        "id": 6,
+        "name": "neewha",
+        "roundsPlayed": "22",
+        "performance": {
+            "kills": "25",
+            "assists": "0",
+            "deaths": "5",
+            "adr": "125",
+            "hs": "54",
+            "entry": {
+                "fk": "5",
+                "fd": "4"
+            }
+        },
+        "multiKills": {
+            "2k": "1",
+            "3k": "2",
+            "4k": "5",
+            "5k": "2"
+        }
+    },
+    {
+        "id": 7,
+        "name": "goose-x5",
+        "roundsPlayed": "22",
+        "performance": {
+            "kills": "18",
+            "assists": "2",
+            "deaths": "25",
+            "adr": "15",
+            "hs": "54",
+            "entry": {
+                "fk": "5",
+                "fd": "1"
+            }
+        },
+        "multiKills": {
+            "2k": "1",
+            "3k": "2",
+            "4k": "5",
+            "5k": "2"
+        }
+    },
+    {
+        "id": 8,
+        "name": "hiko",
+        "roundsPlayed": "22",
+        "performance": {
+            "kills": "22",
+            "assists": "14",
+            "deaths": "2",
+            "adr": "46",
+            "hs": "53",
+            "entry": {
+                "fk": "2",
+                "fd": "1"
+            }
+        },
+        "multiKills": {
+            "2k": "1",
+            "3k": "2",
+            "4k": "5",
+            "5k": "2"
+        }
+    },
+    {
+        "id": 9,
+        "name": "mendo",
+        "roundsPlayed": "22",
+        "performance": {
+            "kills": "22",
+            "assists": "14",
+            "deaths": "2",
+            "adr": "46",
+            "hs": "53",
+            "entry": {
+                "fk": "2",
+                "fd": "1"
+            }
+        },
+        "multiKills": {
+            "2k": "1",
+            "3k": "2",
+            "4k": "5",
+            "5k": "2"
+        }
+    },
+    {
+        "id": 10,
+        "name": "brax",
+        "roundsPlayed": "22",
+        "performance": {
+            "kills": "22",
+            "assists": "14",
+            "deaths": "2",
+            "adr": "46",
+            "hs": "53",
+            "entry": {
+                "fk": "2",
+                "fd": "1"
+            }
+        },
+        "multiKills": {
+            "2k": "1",
+            "3k": "2",
+            "4k": "5",
+            "5k": "2"
+        }
+    }
+]
